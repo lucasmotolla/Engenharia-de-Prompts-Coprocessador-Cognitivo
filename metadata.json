@@ -1,0 +1,6 @@
+{
+  "name": "Scribe - Engenharia de Prompts & Coprocessador Cognitivo",
+  "description": "Ambiente avançado de Engenharia de Prompts e Ciência de Dados impulsionado por um motor central em Python 3.10, com análise CROFTC, otimização de Tokenomics & Prompt Caching, validação matemática de métricas de ML e console Python interativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
