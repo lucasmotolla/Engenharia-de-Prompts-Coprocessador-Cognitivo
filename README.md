@@ -1,20 +1,17 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/683d8554-66a1-4777-b0b8-ce61aca45ffb
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Badges de Tecnologias: TypeScript 5.8, Python 3.10+, React 19, Tailwind CSS v4, Google Gemini e Licença MIT.
+Visão Geral e Arquitetura:
+Detalhamento do motor computacional autônomo em Python (python_engine/).
+Camada de backend em Node.js / Express (server.ts).
+Interface moderna em React 19 com animações e Tailwind CSS.
+Guia de Funcionalidades:
+Heurística CROFTC (Contexto, Papel, Objetivo, Formato, Tom e Restrições).
+Simulador de Tokenomics & Prompt Caching com métricas financeiras e de latência.
+Laboratório interativo Python Core Lab (REPL, equações de Data Science e automação de scripts).
+Modal de Exportação de Contexto para o Gemini (empacotamento de toda a codebase para LLMs).
+Kanban de Ciclo de Vida de Prompts e biblioteca histórica.
+Instruções de Inicialização Local:
+Pré-requisitos (Node.js e Python 3.10+).
+Comandos para instalação e inicialização (npm install, .env, npm run dev).
+Execução dos módulos Python via linha de comando (CLI) e bateria de testes unitários (unittest).
+Tabela de Scripts e Endpoints REST:
+Referência completa de todos os comandos do package.json e rotas da API.
